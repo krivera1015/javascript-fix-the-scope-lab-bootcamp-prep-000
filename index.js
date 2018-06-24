@@ -25,4 +25,4 @@ var funkyFunction = function() {
 
 var myFunk = funkyFunction()
 
-theFunk = myFunk()
+var theFunk = myFunk()
