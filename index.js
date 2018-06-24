@@ -25,5 +25,6 @@ var funkyFunction = function() {
 
 
 function theFunk(){
-  return function funkyFunction()
+  return function funkyFunction(){
+  }
 }
